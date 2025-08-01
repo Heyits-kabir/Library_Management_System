@@ -1,0 +1,13 @@
+# MySQL Workbench specific files
+*.mwb.bak
+*.mysql.workbench
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Environment variables - good practice for any project
+.env
